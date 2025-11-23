@@ -1,0 +1,12 @@
+# Python Version
+python==3.10
+
+# MCP server core
+mcp>=0.1.0
+mcp-server>=0.1.0
+
+# Tool-specific dependencies
+psutil>=5.9.0
+pytz>=2024.1 
+
+typing_extensions>=4.7.1
